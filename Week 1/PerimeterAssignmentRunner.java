@@ -137,7 +137,7 @@ public class PerimeterAssignmentRunner {
         testFileWithLargestPerimeter();
     }
 
-    // This method prints names of all files in a chosen folder that you can use to test your other methods
+    // This method prints names of all files in a chosen folder that you can use to test your other metho
     public void printFileNames() {
         DirectoryResource dr = new DirectoryResource();
         for (File f : dr.selectedFiles()) {

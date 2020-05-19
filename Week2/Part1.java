@@ -41,7 +41,6 @@ public class Part1 {
     }
     
     public static void main (String[] args) {
-        Part1 gene = new Part1();
-        gene.testSimpleGene();
+    
     }
 }

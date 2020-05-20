@@ -1,11 +1,5 @@
 
-/**
- * Final Project - Analyzing baby names data from 1880 to 2014
- * 
- * @author (Tarek Mostafa) 
- * @version (0.1)
- */
-import edu.duke.*;
+
 import org.apache.commons.csv.*;
 import java.io.*;
 import java.util.*;
